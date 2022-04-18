@@ -1,5 +1,10 @@
 # weather-app
-
+```
+Weather app is a single page application which gives you current and next 48 hours weather forcast based on your search!
+```
+Implemented technologies: Vue JS and Vue Router / Axios 
+API Source: [API Source](https://openweathermap.org/)
+URL: [Visit site](https://48weather.netlify.app/).
 ## Project setup
 ```
 npm install
@@ -21,4 +26,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://48weather.netlify.app/).
