@@ -69,7 +69,6 @@ export default {
         .then((response) => {
           let { hourly } = response.data;
           this.hourly = [...hourly];
-          console.log(response.data);
         })
         .catch((error) => {
           console.log(error);
