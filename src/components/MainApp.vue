@@ -30,6 +30,7 @@ import CurrentWeather from "./CurrentWeather.vue";
 import DailyForcast from "./DailyForcast.vue";
 import LoadingSpinner from "./LoadingSpinner.vue";
 import NotFound from "./NotFound.vue";
+
 const API_KEY = "4382820323ae4ab91c338375ef00ae1f";
 
 export default {
